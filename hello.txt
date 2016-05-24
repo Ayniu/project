@@ -1,0 +1,13 @@
+this is a bot
+
+// hellow.c
+
+#include<stdio.h>
+
+int main(int argc, char *argv[])
+{
+    printf("hello world");
+    return(0);
+}
+
+ɱɱɱ
